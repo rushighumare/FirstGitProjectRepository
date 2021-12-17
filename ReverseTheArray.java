@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class ReverseTheArray {
 	public static void main(String[] args) {
-		 int[] arr = {25, 14, 56, 15, 36, 56, 77, 1, 29, 49};
+		 int[] arr = {25, 14, 56, 15, 36, 56, 77, 22, 29, 49};
 
 		    int temp;
 		    
